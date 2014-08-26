@@ -3,5 +3,6 @@
 
     <string name="app_name">IUP กินอะไรดี</string>
     <string name="shake_random">Shake to random</string>
+    <string name="no_accel">ไม่พบ Accelerometer</string>
 
 </resources>
